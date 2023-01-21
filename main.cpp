@@ -12,7 +12,7 @@ int main()
     cout << "Think of a number between 1-100" << endl;
     cout << "What's your number? ";
     cin >> number;
-    cout << "Your random number is: " << randomNumber << endl;
+    cout << "Your number is: " << randomNumber << endl;
 
     return 0;
 }
